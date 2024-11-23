@@ -6,7 +6,7 @@ __pycache__/
 
 
 data/
- 
+
 templates/chat.html
 templates/ui.html
 
@@ -18,7 +18,7 @@ build/
 dist/
 
 
-model/
+# model/
 
 new.ipynb
 
